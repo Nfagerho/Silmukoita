@@ -23,6 +23,8 @@ public class Silmukoita {
             j++;
         }
 
+        System.out.println("Lisäsin tähän vielä tämän vikan lauseen.");
+
 
 
     }
