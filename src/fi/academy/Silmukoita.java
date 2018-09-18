@@ -14,6 +14,15 @@ public class Silmukoita {
             i++;
         }
 
+        System.out.println("Tässä vielä toinen silmukka. Syötä luku: ");
+        int syöte = lukija.nextInt();
+        int j = 0;
+        while (j < syöte) {
+            System.out.println("*");
+            System.out.println(" ");
+            j++;
+        }
+
 
 
     }
